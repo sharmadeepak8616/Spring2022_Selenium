@@ -1,6 +1,21 @@
 package Class3;
 
 public class WebElements_DOM {
+
+    /**
+     * Types of WebElements:
+     *      Button                  -> click
+     *      TextBox/InputField      -> type
+     *      Links                   -> click
+     *      Dropdown                -> click
+     *      Radio Button            -> click
+     *      CheckBox                -> click
+     *      Image                   -> click, get text from Image
+     *      Text/Copy               ->
+     *      Alert
+     *      Frames
+     */
+
     /**
      * DOM -> Document Object Model
      *
