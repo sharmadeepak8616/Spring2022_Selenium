@@ -4,30 +4,17 @@ import java.util.Arrays;
 
 public class CodeTest2 {
     /**
-     * Ques-1:
-     * Create a method to return a max value from an input-int-array
-     * points: 10
-     */
-    /*
-     *
-     * eg:
-     * input -> [32, 54, 12, 67, 2, 5]
-     * returned value ->
-     *
-     * input -> [5, 4, 3, 1, 2]
-     * returned value ->
-     *
-     * input -> [90, 34, 12, 4]
-     * returned value ->
-     *
-     * input -> [-15, -4, -12, -7]
-     * returned value ->
+     * Ques-2:
+     * Verify feelsLike-temp value is in between the low-temp value and high-temp value
+     * Web: https://www.darksky.net/
+     * points: 20
      */
 
+
     /**
-     * Ques-2:
+     * Ques-1:
      * Create a method to return factorial value of input-int-value
-     * points: 20
+     * points: 10
      */
     /*
      *
