@@ -20,16 +20,16 @@ public class CodeTest2 {
      *
      * eg:
      * input -> 5
-     * returned value -> () =
+     * returned value -> (5*4*3*2*1) = 120
      *
      * input -> 1
-     * returned value -> () =
+     * returned value -> (1) = 1
      *
      * input -> 3
-     * returned value -> () =
+     * returned value -> (3*2*1) = 6
      *
      * input -> 10
-     * returned value -> () =
+     * returned value -> (10*9*8*7*6*5*4*3*2*1) =
      */
 
     /**
@@ -58,16 +58,19 @@ public class CodeTest2 {
      *
      * eg:
      * 	input -> : {3, 5, 1, 4, 2, 7}
-     * 	returned value :
+     * 	returned value : 6
+     *
+     * 	input -> : {3, 5, 1, 4, 2}
+     * 	returned value : 6
      *
      * 	input -> {2, 5, -1, 0, 6}
-     * 	returned value :
+     * 	returned value : 1
      *
      * 	input -> {0, 5, -1, 1, 2, 5, 3, 7, 1, 2}
-     * 	returned value :
+     * 	returned value : 4
      *
      * 	input -> {-2, -5, -1, -10, -6}
-     * 	returned value :
+     * 	returned value : 1
      *
      */
 }
